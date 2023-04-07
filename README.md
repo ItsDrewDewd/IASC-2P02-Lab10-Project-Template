@@ -30,11 +30,11 @@ This is my methodology.
 
 ## Data Collection
 
-Describe where the data are coming from. [^fn1]
+Describe where the data is coming from. [^fn1]
 
 ## Processing and Tool Use
 
-Describe the exact steps required to reproduce your results!
+Describe the exact steps required to reproduce results!
 
 ![Figure 2: Voyant-Tools generated co-occurrence analysis from the pandoc manual pages.](https://i.imgur.com/RIDhVQq.png)
 
