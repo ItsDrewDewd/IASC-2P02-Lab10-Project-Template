@@ -23,7 +23,7 @@ This is my abstract.
 This is my introduction. 
 
 
-![Figure 1: Voyant-Tools generated word cloud from the pandoc manual pages.](file:///C:/Users/andre/OneDrive%20-%20Brock%20University/Desktop/University/Year%2002/Winter%20Term/IASC%202P02/Lab%2010/pandoc_vis.png)
+![Figure 1: Voyant-Tools generated word cloud from the pandoc manual pages](https://i.imgur.com/rFgRdpF.png)
 # Methodology 
 
 This is my methodology.
