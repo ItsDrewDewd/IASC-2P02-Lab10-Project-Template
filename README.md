@@ -3,7 +3,7 @@ title: Final Project Template
 subtitle: A Demonstration of the Final Project
 author: Andrew Camacho
 summary: > 
-    This is a demonstration  of a final project. It is a simple use of Markdown and Voyant to create a simple project.
+    This is a demonstration of a final project. It is a simple use of Markdown and Voyant to create a simple project.
 category: Digital Humanities
 template: final_project
 fontfamily: sans-serif
@@ -36,9 +36,9 @@ Describe where the data are coming from. [^fn1]
 
 Describe the exact steps required to reproduce your results!
 
-!["Figure 2: Voyant-Tools generated co-occurence analysis from the pandoc manual pages."](Links_vis.png)
+![Figure 2: Voyant-Tools generated co-occurrence analysis from the pandoc manual pages.](https://i.imgur.com/RIDhVQq.png)
 
-!["Figure 3: Voyant-Tools generated trends graph from the pandoc manual pages."](Trends_vis.png)
+![Figure 3: Voyant-Tools generated trends graph from the pandoc manual pages.](https://i.imgur.com/fnBjudA.png)
 
 # Results
 
